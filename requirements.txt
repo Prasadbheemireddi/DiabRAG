@@ -1,0 +1,14 @@
+streamlit>=1.43.0
+google-genai>=0.1.1
+sentence-transformers>=3.0.1
+chromadb>=0.5.5
+rank-bm25>=0.2.2
+beautifulsoup4>=4.12.3
+requests>=2.32.3
+python-dotenv>=1.0.1
+pydantic>=2.8.2
+numpy>=1.26.4
+torch>=2.2.0
+tqdm>=4.66.4
+rouge-score>=0.1.2
+pypdf>=4.3.0
